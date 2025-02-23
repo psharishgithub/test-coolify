@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>Real lol</h1>
+      <h1>Real lol waw</h1>
     </>
   )
 }
